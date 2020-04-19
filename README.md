@@ -1,7 +1,8 @@
 # TUTORIAL ARDUINO (BÁSICO)
 
 *Este Taller fue diseñado para el Semillero 418 de la Universidad Icesi (Cali, Colombia).*
-\n
+
+
 En este repositorio puedes encontrar los códigos comentados en español o limpios en inglés. Si eres nuevo en Arduino, te recomiento empezar con los códigos comentados, ya que te pueden dar más claridad en como funciona el código y que hace cada línea. Los códigos limpios no incluyen comentarios, lo que hace que sean más fáciles y rápidos de leer, si ya comprendes como funciona Arduino. Están en inglés porque es el lenguaje universal en programación, así serán útiles para más personas.
 
 **El tutorial consta de 7 talleres en el siguiente orden:**
@@ -56,4 +57,4 @@ Este taller usa todos los circuitos montados anteriormente: Múltiples LED (4 en
 3.	2 cables para conectar (GND y Pin 4)
 
 ### ¡Buena Suerte!
-#### Y gracias por leer.
+Y gracias por leer.
